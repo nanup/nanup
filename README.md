@@ -4,20 +4,12 @@
 <table>
   <tr>
     <td>
-      <h2> 💻 &nbsp;About Me </h2>
-       <ul>
-        <li>🎓 &nbsp; B.tech in Mechanical Engineering</li>
-        <li>👑 &nbsp; Full Stack Developer </li>
-        <li>🤔 &nbsp; Interested in AI/ML</li>
-       </ul>
        <p align="center">
-         <br>
+        <br>
         <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nanup&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
        </p>
     </td>
-  </tr>
-  <tr>
-   <td>
+    <td>
      <h2> 🛠 &nbsp;Tech Stack</h2>
      <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
