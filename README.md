@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Nanu Panchamurthy
+## I'm Nanu Panchamurthy | [LinkedIn](https://www.linkedin.com/in/nanu-panchamurthy/) | [Leetcode](https://leetcode.com/nanup/)
 <table>
   <tr>
     <td>
