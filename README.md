@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Nanu Panchamurthy | [LinkedIn](https://www.linkedin.com/in/nanu-panchamurthy/) | [Leetcode](https://leetcode.com/nanup/)
+## I'm Nanu Panchamurthy
 <table>
   <tr>
     <td>
@@ -11,21 +11,27 @@
     </td>
     <td>
      <h2> 🛠 &nbsp;Tech Stack</h2>
-     <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
-     <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
-     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
+     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
      <br>
-     <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=React"/>
-     <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js"/>
-     <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express"/>
-     <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
-     <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
+     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+     <br>
+     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+     <br>
+     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
      <br>
      <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-     <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
+     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
      <br>
-     <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
-     <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb"/>
      <br>
      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
    </td>
