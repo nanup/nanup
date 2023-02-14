@@ -1,4 +1,5 @@
 <h1 align="center">hello there 🙋‍♂️, i am nanu</h1>
+
 🧑‍💻 full stack web developer of mern stack
 
 🏫 currently building projects using react.js
