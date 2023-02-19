@@ -10,4 +10,6 @@
 
 <br>
 
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nanup&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=nanup&show_icons=true&theme=dark&hide_border=true"/>
+
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanup&layout=compact&theme=dark&hide_border=true"/>
