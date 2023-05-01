@@ -6,7 +6,7 @@
 
 🏃 practising dsa @ leetcode
 
-✨ want to learn react native
+✨ want to learn ui/ux design inside out
 
 <br>
 
