@@ -6,7 +6,7 @@
 
 🏃 practising dsa @ leetcode
 
-✨ want to learn ui/ux design inside out
+✨ want to learn machine learning
 
 <br>
 
